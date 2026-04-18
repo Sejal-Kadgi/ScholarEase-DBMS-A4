@@ -93,7 +93,7 @@ DB_HOST=localhost
 DB_USER=root
 DB_PASSWORD=yourpassword
 DB_NAME=scholarease
-```
+
 
 SHARD_HOST=10.0.116.184
 SHARD_USER=DataForge
@@ -103,6 +103,7 @@ SHARD_PORT_0=3307
 SHARD_PORT_1=3308
 SHARD_PORT_2=3309
 
+```
 > Shard containers are hosted on the IITGN server. You must be on the IITGN campus network or VPN to reach them.
 ---
 
